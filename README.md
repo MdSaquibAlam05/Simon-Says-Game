@@ -1,2 +1,2 @@
 # Simon-Says-Game
-This is a simon says game..
+This is a simon says game.
